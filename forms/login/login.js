@@ -1,6 +1,6 @@
 
 let accountName = ""
-// correct login is: Smith and pw 123Dogs#  
+//correct login is: Smith and pw 123Dogs#  
 
 btnSubmit.onclick=function(){
   accountName = inptAccount.value
