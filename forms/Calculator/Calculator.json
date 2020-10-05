@@ -25,7 +25,7 @@
         "forms",
         "Calculator",
         "Elements",
-        "innptNumber2.json"
+        "inptNumber2.json"
       ]
     },
     {
@@ -43,7 +43,7 @@
         "forms",
         "Calculator",
         "Elements",
-        "btnMulitply.json"
+        "btnMultiply.json"
       ]
     }
   ],
